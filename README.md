@@ -22,3 +22,11 @@ Variation2 settings offer more transactions per session, an increase in the deli
 ![](https://github.com/SAB4891/Assessment-/blob/369202c9ec89f6600adb6f281fb0212142f6869b/confidence_intervals.png)
 
 
+
+
+## Tools & packages 
+
+-Jupyter Notebook
+-Statsmodel package
+-numpy
+-matplotlib
