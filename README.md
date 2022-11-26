@@ -7,3 +7,4 @@ A delivery company is assessing various experimental designs to optimize its pri
 
 the tables are shown below, and the requirment is to assess the best Variation setting for the purpose of increasing the delivery fee and maintaining the users' share percentage
 
+!tables.png
