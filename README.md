@@ -26,7 +26,7 @@ Variation2 settings offer more transactions per session, an increase in the deli
 
 
 
-![](TiersProportions.html)
+![](https://github.com/SAB4891/Assessment/blob/246019c979d3383948222cb934f356a8a7896c5f/TiersProportions.html)
 
 
 
