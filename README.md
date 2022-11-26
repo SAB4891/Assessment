@@ -11,3 +11,9 @@ the tables are shown below, and the requirment is to assess the best Variation s
 
 
 
+Variation2 settings offer more transactions per session, an increase in the delivery fee, and maintain the users' share proportion. the below visualization of the transactions per sessions proportions' confidence interval can lead to the plausibility of the improvement made by Variation 2. 
+
+
+
+
+
