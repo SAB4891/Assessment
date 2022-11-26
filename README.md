@@ -26,7 +26,7 @@ Variation2 settings offer more transactions per session, an increase in the deli
 
 
 
-{% include TiersProportions.html %}
+![](TiersProportions.html)
 
 
 
