@@ -7,7 +7,7 @@ A delivery company is assessing various experimental designs to optimize its pri
 
 the tables are shown below, and the requirment is to assess the best Variation setting for the purpose of increasing the delivery fee and maintaining the users' share percentage
 
-!(https://github.com/SAB4891/Assessment-/blob/e38a41739bad67a7e74405bf200e9f0b003e9e80/tables.png)
+![](https://github.com/SAB4891/Assessment-/blob/e38a41739bad67a7e74405bf200e9f0b003e9e80/tables.png)
 
 
 
