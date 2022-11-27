@@ -23,7 +23,7 @@ Variation2 settings offer more transactions per session, an increase in the deli
 Attempting to reach a 0.94KD over all tiers, it is obvious that an attempt to increase x (the second-tier user proportion) positively correlates with the 4th tier user share proportion (which means, if we desire to increase the 3rd tier proportion, we must increase the 4th tier as well (as per the 0.94 KD constraint set). However, the relationship is negatively correlated with the 3rd tier user share proportion, any attempt to increase the 2nd or 4th (which go together) we must decrease the user share proportion in the 3rd Tier
 
 
-the interactive plotly chart can be downloaded (the html file in the repository) and opened regularly to interact with the 3D plotted segment 
+the interactive plotly chart can be downloaded (the html file in the repository) and opened regularly to interact with the 3D plotted segment (detail in the pdf report appendix)  
 
 
 
